@@ -2,6 +2,8 @@
 <h1>
   Welcome to the AirBnB Clone Project✨🏠
 </h1>
+
+<section>
 <h2>Project Overview 🎯</h2>
 <p>The AirBnB Clone Project is a frontend-focused web application designed to replicate the <br /> 
 core user interface and functionalities of the AirBnB platform. It enables users to browse, book, and <br /> 
@@ -9,6 +11,9 @@ list short-term rental properties. This project emphasizes modern frontend devel
 practices, including component-based architecture, responisve dessign and state<br />
 management.
 </p>
+</section>
+
+<section>
 <h2>Project Goals 🏆</h2>
 <ul>
   <li>Replicate key frontend features of AirBnB (listing, booking, authentication interfaces)</li>
@@ -17,6 +22,9 @@ management.
   <li>Practice scalable and maintainable frontend architecture using React and Next.js</li>
   <li>Integrate with a mock or illustrative backend via REST APIs</li>
 </ul>
+</section>
+
+<section>
 <h2>Features 🔧</h2>
 <h3>UI/UX Design Planning</h3>
 <table>
@@ -154,6 +162,316 @@ management.
   experience. Ultimately, recognizing design properties in a mockup lays the foundation for <br />
   building a cohesive, functional, and visually applealing product.
 </p>
+</section>
+
+<section>
+<h2>Project Roles and Responsibilities ✅</h2>
+  
+<div>
+<h3><strong>Project Manager (PM) 🗂</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: The Project Manager is the <br />
+    leader of the project. They are responsible <br />
+    for planning, executing, and closing <br />
+    projects.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Oversee project progress and <br /> 
+      ensure milestones are met.
+    </li>
+    <li>
+      Facilitate communication within the <br /> 
+      team.
+    </li>
+    <li>
+      Manage project timelines, budget,  <br /> 
+      and resources.
+    </li>
+    <li>
+      Identify and mitigate tasks. 
+    </li>
+    </li>
+    <li>
+      Serve as the primary point of <br />
+      contact for stakeholders.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+  
+<div>
+<h3><strong>Frontend Developers 💻</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: Frontend developers focus on <br />
+    the client-side of the application, ensuring <br />
+    a smooth and engaging user experience. <br />
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Implement UI/UX designs using <br /> 
+      HTML, CSS, and JavaScript.
+    </li>
+    <li>
+      Develop React components and <br /> 
+      integrate them with backend APIs.
+    </li>
+    <li>
+      Ensure the application is <br /> 
+      responsive and performs well on <br /> 
+      various devices.
+    </li>
+    <li>
+      Collaborate with designers to <br /> 
+      create visually appealing interfaces. 
+    </li>
+    </li>
+    <li>
+      Optimize the application for <br />
+      maximum speed and scalability.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>Backend Developers 🔧</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: Backend developers work on <br />
+    the server-side of the application, <br />
+    managing data and ensuring seamless <br />
+    communication between the server and <br />
+    the frontend.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Develop and maintain server-side <br /> 
+      logic using languages such as <br />
+      Python, Node.js, or Java.
+    </li>
+    <li>
+      Design and manage databases.  
+    </li>
+    <li>
+      Create and maintain APIs for <br /> 
+      frontend integration.  
+    </li>
+    <li>
+      Implement security and data <br /> 
+      protection measures. 
+    </li>
+    </li>
+    <li>
+      Optimize server performance and <br />
+      scalability.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>Designers 🎨</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: Designers are responsible for <br />
+    the visual and interactive aspects of the <br />
+    application, ensuring it is user-friendly and <br />
+    aesthetically pleasing.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Create wireframes, mockups, and <br /> 
+      prototypes. 
+    </li>
+    <li>
+      Design the layout and visual <br />
+      elements of the application.
+    </li>
+    <li>
+      Ensure a consistent brand identity <br /> 
+      across the application.  
+    </li>
+    <li>
+      Collaborate with frontend <br /> 
+      developers to implement designs. 
+    </li>
+    </li>
+    <li>
+      Conduct usability testing to gather <br />
+      feedback and improve designs.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>QA/Testers 🧪</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: QA/Testers ensure the quality <br />
+    and reliability of the application by <br />
+    identifying and fixing bugs before release.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Develop and executes test plans and <br /> 
+      test cases. 
+    </li>
+    <li>
+      Perform manual and automated <br />
+      testing.
+    </li>
+    <li>
+      Identify, document, and track bugs.  
+    </li>
+    <li>
+      Verify bug fixes and perform <br /> 
+      regression testing. 
+    </li>
+    </li>
+    <li>
+      Ensure the application meets <br />
+      quality standards and user <br /> 
+      requirements.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>DevOps Engineers 🚀</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: DevOps Engineers focus on <br />
+    the deployment and operational aspects <br />
+    of the software, ensuring smooth and <br />
+    efficient delivery.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Automate deployment processes. 
+    </li>
+    <li>
+      Manage cloud infrastructure and <br />
+      server configurations.
+    </li>
+    <li>
+      Monitor application performance <br />
+      and uptime.  
+    </li>
+    <li>
+      Implement continuous integration <br /> 
+      and continuous deployment (CI/CD) <br />
+      pipelines. 
+    </li>
+    </li>
+    <li>
+      Ensure security and compliance in <br />
+      the production environment.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>Product Owner (PO)📋</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: The Product Owner is <br />
+    responsible for defining the vision of the <br />
+    product and ensuring it meets user needs.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Define and prioritize product <br />
+      features and requirements. 
+    </li>
+    <li>
+      Create and manage the product <br />
+      backlog.
+    </li>
+    <li>
+      Act as liaison between <br />
+      stakeholders and the development <br />
+      team.  
+    </li>
+    <li>
+      Ensure the product delivers value to <br /> 
+      users and aligns with business <br />
+      goals. 
+    </li>
+    </li>
+    <li>
+      Make decisions on scope and <br />
+      accept completed work.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+<div>
+<h3><strong>Scrum Master 🏅</strong></h3>
+<ul>
+  <li>
+    <strong>Overview</strong>: The Scrum Master facilitates <br />
+    Agile processes and helps the team follow <br />
+    Scrum practices.
+  </li>
+  <li>
+    <strong>Key Responsibilities</strong>:
+  <ul>   
+    <li>
+      Organize and facilitates Scrum <br />
+      ceremonies (eg., daily stand-ups, <br />
+      sprint planning, retrospectives). 
+    </li>
+    <li>
+      Remove impediments that hinder <br />
+      the team's progress.
+    </li>
+    <li>
+      Foster a collaborative and <br />
+      productive team environment.   
+    </li>
+    <li>
+      Coach the team on Agile principles <br /> 
+      and practices. 
+    </li>
+    </li>
+    <li>
+      Ensure continuous improvement <br />
+      within the team.
+    </li>
+  </ul>  
+  </li>
+</ul>
+</div>
+
+</section>
 <h2>Tech Stack 💻</h2>
 <h3>Frontend:</h3>
 <ul>
