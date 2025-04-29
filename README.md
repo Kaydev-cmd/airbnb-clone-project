@@ -18,13 +18,53 @@ management.
   <li>Integrate with a mock or illustrative backend via REST APIs</li>
 </ul>
 <h2>Features 🔧</h2>
-<ul>
+<h3>UI/UX Design Planning</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Primary Pages</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><strong>Property Listing View</strong></th>
+      <td>A page displaying various property listings with essential details and images.</td>
+    </tr>
+    <tr>
+      <th><strong>Listing Detailed View</strong></th>
+      <td>A detailed view of a specific property, including more extensive information and images.</td>
+    </tr>
+    </tr>
+    <tr>
+      <th><strong>Simple Checkout View</strong></th>
+      <td>A streamlined process for booking properties.</td>
+    </tr>
+    </tr>
+    <tr>
+      <th><strong>Search Functionality</strong></th>
+      <td>A robust search feature enabling users to find properties based on criteria like location, price, and availablitiy.</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  A user friendly design is crucial in a booking system because it ensures that users can <br /> 
+  navigate the platform easily and complete their bookings efficiently. An intuitive interface <br />
+  reduces friction, helping users move smoothly from browsing to checkout without <br />
+  confusion. This not only improves conversion rates but also builds trust by presenting a <br />
+  clean, professional experience, especially important when handling sensitive information <br />
+  like payment details. User-friendly systems are also more accessible, accomodating users <br />
+  of all abilities and technical backgrounds. By minimizing errors through guided <br />
+  interactions and responsive feedback, the design enhances satisfaction and increases the <br />
+  likelihood of repeat bookings and referrals.
+</p>
+<!-- <ul>
   <li>User authentication (sign up, log in, log out)</li>
   <li>Property listings and detailed property views</li>
   <li>Booking interface and confirmation</li>
   <li>Responsive design compatible with all devices</li>
   <li>Global state management for user session and UI behaivor</li>
-</ul>
+</ul> -->
 <h2>Tech Stack 💻</h2>
 <h3>Frontend:</h3>
 <ul>
