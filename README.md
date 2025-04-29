@@ -59,12 +59,90 @@ management.
   likelihood of repeat bookings and referrals.
 </p>
 <h4>Color Styles:</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Color</th>
+      <th>Usage</th>
+      <th>Hex Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Rausch (Primary)</th>
+      <td>Buttons, highlights, links</td>
+      <td>#FF5A5F</td>
+    </tr>
+    <tr>
+      <th>Dark Charcoal</th>
+      <td>Primary text</td>
+      <td>#484848</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>Babu (Accent)</th>
+      <td>Icons, secondary buttons</td>
+      <td>#00A699</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>Arches (Background)</th>
+      <td>App background and surfaces</td>
+      <td>#F7F7F7</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>White</th>
+      <td>Card and modal backgrounds</td>
+      <td>#FFFFFF</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>Gray</th>
+      <td>Border, secondary text, placeholders</td>
+      <td>#767676</td>
+    </tr>
+  </tbody>
+</table>
 <h4>Typography:</h4>
-<ul>
-  <li><strong>Font Family</strong>:</li>
-  <li><strong>Font Weight</strong>:</li>
-  <li><strong>Font Size</strong>:</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Text Style</th>
+      <th>Font Size</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Heading 1</th>
+      <td>32px</td>
+      <td>Bold</td>
+    </tr>
+    <tr>
+      <th>Heading 2</th>
+      <td>24px</td>
+      <td>Semibold</td>
+    </tr>
+    <tr>
+      <th>Body Large</th>
+      <td>18px</td>
+      <td>Regular</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>Body Medium</th>
+      <td>16px</td>
+      <td>Regular</td>
+    </tr>
+    </tr>
+    <tr>
+      <th>Caption/Label Text</th>
+      <td>14px</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
 <p>
   Identifying the design properties of a mockup is essential because it provides a clear <br /> 
   blueprint for how the final product should look and function. These properties, such as <br />
