@@ -194,7 +194,6 @@ management.
     <li>
       Identify and mitigate tasks. 
     </li>
-    </li>
     <li>
       Serve as the primary point of <br />
       contact for stakeholders.
