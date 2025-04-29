@@ -58,13 +58,24 @@ management.
   interactions and responsive feedback, the design enhances satisfaction and increases the <br />
   likelihood of repeat bookings and referrals.
 </p>
-<!-- <ul>
-  <li>User authentication (sign up, log in, log out)</li>
-  <li>Property listings and detailed property views</li>
-  <li>Booking interface and confirmation</li>
-  <li>Responsive design compatible with all devices</li>
-  <li>Global state management for user session and UI behaivor</li>
-</ul> -->
+<h4>Color Styles:</h4>
+<h4>Typography:</h4>
+<ul>
+  <li><strong>Font Family</strong>:</li>
+  <li><strong>Font Weight</strong>:</li>
+  <li><strong>Font Size</strong>:</li>
+</ul>
+<p>
+  Identifying the design properties of a mockup is essential because it provides a clear <br /> 
+  blueprint for how the final product should look and function. These properties, such as <br />
+  layout, color scheme, typography, spacing, and component hierarchy, ensure visual <br />
+  consistency and usability across the interface. Understanding these elements early allows <br />
+  developers and designers to align on expectations, avoid miscommunication, and <br />
+  streamline the development process. It also helps in evaluating whether the design meets <br />
+  accesibility standards, aligns with brand identity, and provides an intuitive user <br />
+  experience. Ultimately, recognizing design properties in a mockup lays the foundation for <br />
+  building a cohesive, functional, and visually applealing product.
+</p>
 <h2>Tech Stack 💻</h2>
 <h3>Frontend:</h3>
 <ul>
